@@ -13,7 +13,7 @@ body{
     margin: 0;
 }
 
-.dimension{
+.format-page{
     width: 50%;
     margin: auto;
 }
@@ -42,7 +42,7 @@ h1{
 th{
     width: 10%;
 }
-.table-body{
+.background-table{
     background-color: rgb(11, 161, 248);
 }
 ul{
@@ -65,3 +65,7 @@ ul{
     color: black;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
